@@ -1,4 +1,4 @@
-# OptimizedFaceRecognitionTool
+# Optimized Face Recognition Tool
 
 Based on Face Detection API of HP Haven on Demand, the project provides more accurate recognition on faces under some conditions.
 Users could try the Optimized Face Recognition Tool through the website using an image URL or uploading an image.
